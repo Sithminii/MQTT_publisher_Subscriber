@@ -1,4 +1,4 @@
-# MQTT_publisher_Subscriber
+# MQTT_Publisher_Subscriber
 Developed a MQTT publisher and subscriber using python
 
 ## 01. Fullblown Publisher and Subscriber
